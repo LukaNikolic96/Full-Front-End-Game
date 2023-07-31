@@ -51,4 +51,6 @@ The game can be restarted by pressing the 'r' key. It resets all game objects an
 
 **Conclusion:**
 This GitHub repository showcases a front-end game built using HTML5 Canvas and JavaScript. The code demonstrates effective use of the canvas element for rendering and updating graphics in real-time. It utilizes various classes to represent game objects and manages collision detection to create an interactive gaming experience. The implementation of a game loop ensures smooth animations, and the addition of particles and debug mode enhances the visual aspects of the game. With further improvements and feature additions, this project has the potential to become a polished and engaging web-based game.
+
+
 Original code created by: Frank's Laboratory
